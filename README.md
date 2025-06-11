@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning *DS and OOPS*
 
-- 👯 I’m looking to collaborate on *Forntend Web Development*
-
-- 💬 Ask me about *DS & Web Development*
-
 - 📫 How to reach me *pramadakrishna@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
